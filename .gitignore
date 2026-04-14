@@ -31,3 +31,4 @@ Thumbs.db
 
 # Outputs that regenerate from pipeline
 # (keep charts and tables — they're useful for the README/portfolio)
+data/processed/fact_features.parquet
