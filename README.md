@@ -1,6 +1,6 @@
 # M5 Inventory Replenishment & Demand Forecasting
 
-A portfolio-grade supply chain project built on the [M5 Forecasting Accuracy](https://www.kaggle.com/competitions/m5-forecasting-accuracy) dataset.
+Demand forecasting and inventory replenishment pipeline built on the [M5 Walmart dataset](https://www.kaggle.com/competitions/m5-forecasting-accuracy), featuring LightGBM vs baseline model comparison, reorder-point simulation with safety stock, and a live Streamlit dashboard with executive, planner, and model views.
 
 ## Live Demo
 
