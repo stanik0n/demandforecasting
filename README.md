@@ -210,7 +210,3 @@ forecasting/
 - **Parquet throughout**: columnar storage for fast reads; no database required
 
 ---
-
-## Keywords
-
-Demand Planning · Inventory Management · Supply Chain · Replenishment · Procurement · Safety Stock · Supply-Demand Alignment · Demand Forecasting · Inventory Optimization · Stockout Reduction
